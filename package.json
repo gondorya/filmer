@@ -1,8 +1,8 @@
 {
-  "name": "makers",
+  "name": "filmer",
   "version": "1.0.0",
   "private": true,
-  "description": "makers",
+  "description": "filmer",
   "author": "Monika Filipkowska",
   "keywords": [
     "gatsby"
